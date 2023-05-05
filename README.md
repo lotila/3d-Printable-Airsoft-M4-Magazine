@@ -36,4 +36,4 @@
 
 ### Pictures
 
-![3d prints orientation](./pictures/3d prints orientation.png)
+![3d prints orientation](./pictures/3d%20prints%20orientation.png)
